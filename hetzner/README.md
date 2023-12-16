@@ -16,7 +16,7 @@ will use nvme, if sda is a spinning disk
 
 ### Proxmox VE (PVE)
 ```
-curl -O https://raw.githubusercontent.com/extremeshok/xshok-proxmox/master/hetzner/vnc-install-proxmox.sh && chmod +x vnc-install-proxmox.sh
+curl -O https://github.com/Amvhunt/xshok-proxmox/blob/7a755052a104ba7252aac47c48acc0623691bed4/hetzner/vnc-install-proxmox.sh && chmod +x vnc-install-proxmox.sh
 ./vnc-install-proxmox.sh
 ```
 
